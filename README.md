@@ -1,1 +1,1 @@
-# CS50-
+# CS50-hello! Learning stuff!
